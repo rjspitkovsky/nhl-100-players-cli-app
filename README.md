@@ -1,12 +1,8 @@
 # Nhl100PlayersCliApp
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/nhl_100_players_cli_app`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to the NHL top 100 Players gem! Use this gem to learn more about some of the best hockey players of all time.
 
 ## Installation
-
-test test test 
 
 Add this line to your application's Gemfile:
 
